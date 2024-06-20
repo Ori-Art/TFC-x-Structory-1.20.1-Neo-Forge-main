@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: structory
+Specification-Vendor: Stardust Labs
+Specification-Version: 1.3.5
+Implementation-Title: structory
+Implementation-Version: 1.3.5
+Implementation-Vendor: Stardust Labs
+Implementation-Timestamp: 2024-05-11T18:14:58+0200
